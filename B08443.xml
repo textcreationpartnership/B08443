@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The respondent Thomas Bedford's case</title>
+            <author>Bedford, Thomas, fl. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08443</idno>
+            <idno type="STC">Wing B1670AA</idno>
+            <idno type="STC">ESTC R172683</idno>
+            <idno type="EEBO-CITATION">61296859</idno>
+            <idno type="OCLC">ocm 61296859</idno>
+            <idno type="VID">180454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180454)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2829:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The respondent Thomas Bedford's case</title>
+                  <author>Bedford, Thomas, fl. 1680.</author>
+                  <author>Jenoway, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">[London? : s.n.,</name>
+                     <date>1680?]</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Bedford. Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>"Jenoway, &amp; vx. &amp; Dickens &amp; al., appel  Thomas Bedford &amp; al., respon."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Arnold, Edmund.</term>
+               <term>Bedford, Thomas, fl. 1680 --  Estate.</term>
+               <term>Distribution of decedents' estates --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180454:1"/>
+            <head>THE Reſpondent Thomas Bedford's CASE.
+<note place="margin">
+                  <list>
+                     <item>
+                        <hi>Jenoway, &amp; <g ref="char:V">Ʋ</g>x. &amp; Dickens &amp; al.</hi> Appel.</item>
+                     <item>
+                        <hi>Thomas Bedford &amp; al.</hi> Reſpon.</item>
+                  </list>
+               </note>
+            </head>
+            <p>THAT <hi>Edmund Arnold</hi> Eſquire, by his Will Dated the ſixth of <hi>May,</hi> 1675. having given ſeveral Legacies, did be<g ref="char:EOLhyphen"/>queath the reſt and reſidue of his Money and Perſonal Eſtate, after his Debts paid, and Funerals diſcharged, to and amongſt his Kindred, according to their moſt need; to be diſtributed amongſt them by his Executors, with the aſſiſtance of his Cozens <hi>Edward Buncher, John Steere,</hi> and <hi>John Buncher</hi> the younger; ſaving ſuch Legacies as he ſhould by his ſaid Will, or any Codicil or Codicils, further diſpoſe of.</p>
+            <p>And of his ſaid Will made <hi>Thomas Bedford</hi> Gent. Executor, and afterwards made two Codicils; and ſhortly after (to wit, on or about the 27th of <hi>March,</hi> 1676.) dyed, leaving no Iſſue.</p>
+            <p>That the ſaid Executor having proved the Will, there were in Eaſter-Term, 1677. two Bills Exhibited in the Court of Chan<g ref="char:EOLhyphen"/>cery againſt him (one whereof was by <hi>Anne Carr</hi> the Teſtators Siſter, and by about forty others of the nearer Kindred, who deſcended from the Brothers and Siſters of the Teſtator, who were his Nephews and Nieces, and Children of Nephews and Nieces. And the other Bill was by remoter Relations (<hi>viz. William Jenoway</hi> and <hi>Elizabeth</hi> his Wife, <hi>Robert Dickens,</hi> and a great number of others who were deſcended from the Teſtators Unkles and Aunts by his Father and Mothers ſide) to have a ſhare and diſtribution of the reſidue of the ſaid Eſtate. To each of which Bills the ſaid Executor did put in his Anſwer, and thereby ſet forth an Accompt of the Perſonal Eſtate: both which Cauſes were heard on the fifth of <hi>November</hi> 1678; and after a full hearing, the Court Decreed, That the Act of Parliament for better ſetling Inteſtates Eſtates, ſhould be the rule that ſhould be obſerved for limiting the extent of the word <hi>Kindred;</hi> and that it ſhould extend only to the Teſtators Siſter <hi>Anne Carr</hi> and to her Children, and to the ſaid Teſtators other Nephews and Nieces then living; and that no Kindred out of the degree of a Brother or Siſter to the Teſtator, or a Child of ſuch Brother or Siſter, ſhould come in, or have any ſhare of the ſaid reſidue. And that amongſt thoſe that were to come into the diſtribution, the ſaid Executor ſhould chiefly conſider them who had moſt need, and ſhould diſtribute the ſaid reſidue in ſuch manner and proportions as the ſaid Executor ſhould think fit, by and with the allowance of Sir <hi>Samuel Clerke</hi> Knight, one of the Maſters of the ſaid Court, before whom the ſaid Ex<g ref="char:EOLhyphen"/>ecutor was to Accompt for the ſaid Perſonal Eſtate; and of what upon the ſaid Accompt the ſaid Maſter ſhould certifie to be remaining in the ſaid Executors hands, he was to retain in his hands 300 <hi>l.</hi> for ſix years, or ſo much longer as the ſaid <hi>Anne Carr</hi> the Teſtators Siſter ſhould happen to live, for payment of Ten pound <hi>per Annum,</hi> given her by the ſaid Will for her Life, and better indemnifying the ſaid Executor againſt Debts. And that the reſidue of the Money that ſhould be certified re<g ref="char:EOLhyphen"/>maining in the ſaid Executors hands, with the Securities and Debts owing to the Eſtate, ſhould forthwith (and alſo what ſhould be remaining of the aforeſaid 300 <hi>l.</hi> all reaſonable allowances being firſt deducted, ſhould after the expiration of the ſaid ſix years, and the death of the ſaid <hi>Anne Carr</hi>) be diſtributed and aſſigned by the ſaid Executor according to the directions aforeſaid.</p>
+            <p>That in purſuance of the ſaid Decree, the ſaid Executor did Accompt before the ſaid Maſter, who by his Report, bearing date the 20th day of <hi>February,</hi> 1678, did certifie, that there did remain in the ſaid Executors hands, the ſum of 1471 <hi>l.</hi> 16 <hi>s.</hi> 10 <hi>d.</hi> beſides the ſaid Debts and Securities which were to be diſtributed; and did allow of the proportions to be diſtributed and aſſigned to the ſeveral perſons, as therein were particularly mentioned. Which Report was afterwards (<hi>viz.</hi> upon the 26th day of <hi>February,</hi> 1678) confirmed by the Decree of that Court. And in obedience to the ſaid Decree, the ſaid Mr. <hi>Bedford</hi> the Executor did long ſince actually pay to the ſeveral perſons the ſeveral proportions, and alſo aſſigned the ſaid Debts and Securities, as by the ſaid Report and Decree was directed.</p>
+            <p>That the ſaid <hi>William Jenoway,</hi> and <hi>Elizabeth</hi> his Wife, <hi>Robert Dickens,</hi> and others of the remoter Relations, (which were out of the degrees limited by the ſaid Decree) have Appealed from the ſame to the Houſe of Lords, and the deſign of their Appeal is to be let in to have a ſhare of the ſaid reſidue.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
